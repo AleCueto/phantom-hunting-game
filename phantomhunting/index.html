@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+    <title>Phantom Hunting</title>
+    <link rel="shortcut icon" href="./images/favicon.png">
+    <link rel="stylesheet" href="./styles/style.css">
+    <script src="./scripts/gamelogic.js"></script>
+</head>
+<body>
+    <h1 id="score">Click the phantom to start the game... if your dare: </h1>
+    <h2 id="timer">You have to get 10 points in 10 seconds to save the town!!! </h2>
+    <div id="playSpace" onclick="toutchPhantom();timeController(); this.onclick=null;">
+        <img src="./images/fantasma.png" id="phantom" onclick="toutchPhantom();">
+    </div>
+    <div id="contact"><p><a href="https://github.com/AleCueto" target="_blank">🧟 contact me 👻</a></p></div>
+</body>
+</html>
