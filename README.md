@@ -3,4 +3,4 @@
 If you want to test your reflexes and your aim, you should try it!!! <br>
 Im a beginner in programming, so, if you find any kind of error or a better way to do something, please, notice me 😉👍 <br>
 Thank you! <br>
-<img src="/phantomhunting/images/snapshot.png" width="600px" text-align: center> <br>
+<img src="phantomhunting/images/snapshot.png" width="600px" text-align: center> <br>
