@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+    margin: 0%;
+    padding: 0%;
+    width: 0%;
+}
+
+#phantom{
+    width: 60px;
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
